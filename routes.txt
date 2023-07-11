@@ -1,0 +1,20 @@
+Seattle, San Francisco, Las Vegas, Milwaukee
+San Francisco, Seattle
+Las Vegas, Seattle, Scottsdale, Wichita, Dallas
+Milwaukee, Wichita, Houston, Columbus
+Scottsdale, Los Angeles, Las Vegas
+Wichita, Las Vegas, Dallas, Milwaukee
+Dallas, Houston, Wichita, Las Vegas
+Houston, Dallas, Milwaukee
+Columbus, Milwaukee, Memphis
+Los Angeles, Scottsdale
+Memphis, Columbus, Atlanta
+Atlanta, Tuscaloosa, Memphis, Pittsburgh, DC
+Tuscaloosa, Atlanta, Chicago
+Pittsburgh, Buffalo, Atlanta
+DC, Atlanta, Orlando, NYC
+Chicago, Tuscaloosa
+Buffalo, Pittsburgh
+Orlando, Atlanta, DC
+NYC, Boston, DC
+Boston, NYC
